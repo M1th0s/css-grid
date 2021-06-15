@@ -69,6 +69,7 @@ body{
     background: #12203E;
     color: white;
     grid-area: footer;
+    height: 75px;
 }
 
 @media screen and (max-width: 768px){
